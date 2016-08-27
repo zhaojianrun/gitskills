@@ -1,5 +1,2 @@
-# gitskills
-Excerise git skills.
-Creating a new branch is quick
-Creating a new branch is quick and simple.
-Very good on master branch.
+It's just a excerise file.
+It's very simple and quick to create a new branch.
